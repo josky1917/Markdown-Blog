@@ -51,7 +51,7 @@ mongo-express
 
 # Docker-Compose
 ## Start
-> docker-compose -f mongo.yaml up -d
+> docker-compose -f docker-compose.yml up -d
 
 ## Stop
-> docker-compose -f mongo.yaml down
+> docker-compose -f docker-compose.yml down
